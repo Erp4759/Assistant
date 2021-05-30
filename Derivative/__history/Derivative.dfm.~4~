@@ -1,0 +1,89 @@
+object derivativee: Tderivativee
+  Left = 0
+  Top = 0
+  Caption = 'derivative'
+  ClientHeight = 494
+  ClientWidth = 796
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  OnCreate = FormCreate
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Label1: TLabel
+    Left = 112
+    Top = 80
+    Width = 66
+    Height = 43
+    Caption = 'f(x) ='
+    Font.Charset = RUSSIAN_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -24
+    Font.Name = 'Segoe Print'
+    Font.Style = [fsBold]
+    ParentFont = False
+  end
+  object Label2: TLabel
+    Left = 112
+    Top = 232
+    Width = 72
+    Height = 43
+    Caption = 'f'#39'(x) ='
+    Font.Charset = RUSSIAN_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -24
+    Font.Name = 'Segoe Print'
+    Font.Style = [fsBold]
+    ParentFont = False
+  end
+  object Label3: TLabel
+    Left = 112
+    Top = 376
+    Width = 78
+    Height = 43
+    Caption = 'f'#39#39'(x) ='
+    Font.Charset = RUSSIAN_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -24
+    Font.Name = 'Segoe Print'
+    Font.Style = [fsBold]
+    ParentFont = False
+  end
+  object fx: TEdit
+    Left = 184
+    Top = 72
+    Width = 257
+    Height = 65
+    AutoSize = False
+    TabOrder = 0
+  end
+  object fxx: TEdit
+    Left = 190
+    Top = 232
+    Width = 257
+    Height = 65
+    AutoSize = False
+    TabOrder = 1
+  end
+  object fxxx: TEdit
+    Left = 190
+    Top = 376
+    Width = 257
+    Height = 69
+    AutoSize = False
+    TabOrder = 2
+  end
+  object button: TButton
+    Left = 584
+    Top = 67
+    Width = 161
+    Height = 81
+    Caption = #1042#1099#1095#1080#1089#1083#1080#1090#1100
+    TabOrder = 3
+    OnClick = buttonClick
+  end
+end

@@ -1,0 +1,14 @@
+program Assistant;
+
+uses
+  Vcl.Forms,
+  mainform in 'mainform.pas' {THelper};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TTHelper, THelper);
+  Application.Run;
+end.

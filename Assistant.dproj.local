@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.431,=C:\Users\user\Documents\Embarcadero\Studio\Projects\AssistantFull\literature\liter.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.849,=C:\Users\user\Documents\Embarcadero\Studio\Projects\AssistantFull\MathAssistant\Unit7.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.026,=D:\documents\Embarcadero\Studio\Projects\asssssss\AssistantFull\AssistantFull\slist\listt.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.979,D:\documents\Embarcadero\Studio\Projects\asssssss\AssistantFull\AssistantFull\Unit10.dfm=D:\documents\Embarcadero\Studio\Projects\asssssss\AssistantFull\AssistantFull\setform.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.867,=D:\documents\Embarcadero\Studio\Projects\asssssss\AssistantFull\AssistantFull\Unit10.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.749,=D:\documents\Embarcadero\Studio\Projects\asssssss\AssistantFull\AssistantFull\Unit10.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.979,D:\documents\Embarcadero\Studio\Projects\asssssss\AssistantFull\AssistantFull\Unit10.pas=D:\documents\Embarcadero\Studio\Projects\asssssss\AssistantFull\AssistantFull\setform.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.889,C:\Users\user\Documents\Embarcadero\Studio\Projects\Assistant\mainform.pas=C:\Users\user\Documents\Embarcadero\Studio\Projects\mainform.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.880,C:\Users\user\Documents\Embarcadero\Studio\Projects\Assistant.dproj=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project4.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.692,=C:\Users\user\Documents\Embarcadero\Studio\Projects\AssistantFull\MathAssistant\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.192,=C:\Users\user\Documents\Embarcadero\Studio\Projects\AssistantFull\MathAssistant\Unit9.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.795,C:\Users\user\Documents\Embarcadero\Studio\Projects\Assistant\Assistant.dproj=C:\Users\user\Documents\Embarcadero\Studio\Projects\Assistant.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.651,C:\Users\user\Documents\Embarcadero\Studio\Projects\mainform.dfm=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit5.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.361,=C:\Users\user\Documents\Embarcadero\Studio\Projects\AssistantFull\MathAssistant\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.745,=C:\Users\user\Documents\Embarcadero\Studio\Projects\AssistantFull\Graph\Graph.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.651,C:\Users\user\Documents\Embarcadero\Studio\Projects\mainform.pas=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.220,=C:\Users\user\Documents\Embarcadero\Studio\Projects\AssistantFull\MathAssistant\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.819,=C:\Users\user\Documents\Embarcadero\Studio\Projects\AssistantFull\Derivative\Derivative.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.095,=C:\Users\user\Documents\Embarcadero\Studio\Projects\AssistantFull\MathAssistant\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.771,=C:\Users\user\Documents\Embarcadero\Studio\Projects\AssistantFull\Derivative\Derivative.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.935,C:\Users\user\Documents\Embarcadero\Studio\Projects\AssistantFull\Derivative\Derivative.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.019,=C:\Users\user\Documents\Embarcadero\Studio\Projects\AssistantFull\integral\integra.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.071,=C:\Users\user\Documents\Embarcadero\Studio\Projects\AssistantFull\integral\integra.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.875,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.267,C:\Users\user\Documents\Embarcadero\Studio\Projects\AssistantFull\integral\integra.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.005,=C:\Users\user\Documents\Embarcadero\Studio\Projects\AssistantFull\MathAssistant\Unit8.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.889,C:\Users\user\Documents\Embarcadero\Studio\Projects\Assistant\mainform.dfm=C:\Users\user\Documents\Embarcadero\Studio\Projects\mainform.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.521,=C:\Users\user\Documents\Embarcadero\Studio\Projects\AssistantFull\MathAssistant\Unit5.pas</Transaction>
+  </Transactions>
+</BorlandProject>

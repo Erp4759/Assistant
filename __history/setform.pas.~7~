@@ -1,0 +1,47 @@
+unit setform;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, Vcl.Imaging.pngimage,
+  Vcl.ExtCtrls;
+
+type
+  Tsetf = class(TForm)
+    RadioButton1: TRadioButton;
+    RadioButton2: TRadioButton;
+    Label1: TLabel;
+    Image1: TImage;
+    procedure RadioButton1Click(Sender: TObject);
+    procedure RadioButton2Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  setf: Tsetf;
+
+implementation
+
+uses mainform, listt, Derivative, integra;
+{$R *.dfm}
+
+procedure Tsetf.RadioButton1Click(Sender: TObject);
+begin
+   THelper.Color := cl3DDkShadow;
+   listofst.Color := cl3DDkShadow;
+   derivativee.Color  := cl3DDkShadow;
+end;
+
+procedure Tsetf.RadioButton2Click(Sender: TObject);
+begin
+  Thelper.Color := clGradientInactiveCaption;
+  //listofst.Color := clBtnFace;
+  listofst.Color := clGradientInactiveCaption;
+  derivativee.Color := clGradientInactiveCaption;
+end;
+
+end.
